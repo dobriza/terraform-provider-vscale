@@ -119,7 +119,7 @@
   name = "github.com/hashicorp/terraform"
   packages = ["config","config/module","dag","flatmap","helper/hashcode","helper/hilmapstructure","helper/schema","moduledeps","plugin","plugin/discovery","terraform"]
   revision = "8ba8fc79c106dee098c625f4c40cd53d73660a92"
-  version = "v0.10.7"
+  version = "v0.12.20"
 
 [[projects]]
   branch = "master"
