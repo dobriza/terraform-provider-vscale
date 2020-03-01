@@ -23,7 +23,7 @@
 
 [[constraint]]
   name = "github.com/hashicorp/terraform"
-  version = "0.10.7"
+  version = "v0.12.20"
 
 [[constraint]]
   branch = "master"
